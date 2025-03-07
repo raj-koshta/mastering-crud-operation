@@ -41,6 +41,10 @@ button:hover {
   box-shadow: rgb(9, 172, 115) 0px 7px 19px 0px;
 }
 
+.btn-delete{
+  background-color: #e74c3c;
+}
+
 /* ================================================ */
 
 .main-section {
