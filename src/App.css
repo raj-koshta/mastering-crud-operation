@@ -35,11 +35,7 @@ button {
   -o-border-radius: 0.3rem;
 }
 
-button:hover {
-  background-color: hsl(160, 80%, 48%);
-  color: hsl(0, 0%, 100%);
-  box-shadow: rgb(9, 172, 115) 0px 7px 19px 0px;
-}
+
 
 .btn-delete{
   background-color: #e74c3c;
